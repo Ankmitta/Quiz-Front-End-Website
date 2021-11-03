@@ -1,0 +1,174 @@
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+h1 {
+  font-family: "Montserrat-Bold";
+  color: #fff;
+  font-weight: bold;
+}
+
+h2, h4 {
+  color: #F4A442;
+  font-weight: bold;
+}
+
+.SAquiz {
+  font-size: 0.8rem;
+  color: #C7BEA2;
+  padding-left: 15px;
+}
+
+.first-logo {
+  width: 4%;
+  margin-left: 7%;
+  padding-bottom: 18px;
+}
+
+p {
+  font-weight: bold;
+}
+
+.play-earn {
+  margin-top: 10%;
+  margin-right: 30%;
+}
+
+.navbar {
+  font-weight: bolder;
+}
+
+#footerSection, .row1 {
+  background-color: #F4A442;
+}
+
+.para-class1 {
+  color: #fff;
+  font-family: "Montserrat";
+  text-align: center;
+  width: 102%;
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.title-image {
+  border-radius: 50%;
+  width: 50%;
+  margin: 5% auto;
+}
+
+.title-here {
+  color: #F4A442;
+  font-weight: bolder;
+  margin: 10% 39% 3% auto;
+}
+
+.roimg2 {
+  width: 90%;
+  margin: 3% 60% auto auto;
+}
+
+.btn-primary {
+  background-color: #F4A442;
+  margin-top: 4%;
+}
+
+.play-quiz {
+  margin: 4% auto 1% auto;
+}
+
+.award2 {
+  width: 90%;
+  margin: 4% auto 12% 20%;
+}
+
+.Jackpot-image {
+  padding-top: 40px;
+  padding-bottom: 70px;
+  width: 80%;
+}
+
+.feedsclass {
+  padding-top: 100px;
+  margin-bottom: 3%;
+}
+
+.smrc1 {
+  margin-bottom: 13%;
+}
+
+.buimg {
+  float: left;
+  margin-left: 20%;
+}
+
+#greyboxId {
+  background-color: #E5DCC3;
+  height: 350px;
+}
+
+.greyclass {
+  margin-right: 50%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  padding-top: 100px;
+}
+
+.paragrey {
+  font-size: 2rem;
+  
+}
+
+.placeholder-padding {
+  padding: 12px 200px;
+  color: #F4A442;
+}
+
+.extra-btn {
+  font-weight: bold;
+}
+
+.para-nav {
+  padding-left: 40px;
+}
+
+.extra-btn {
+  margin-bottom: 4%;
+}
+
+.contacth2 {
+  font-size: 2.3rem;
+  padding: 60px auto 15px auto;
+  padding-top: 40px;
+  font-family: Montserrat-Bold;
+}
+
+.last-icons {
+  font-size: 1.5rem;
+  padding: 10px 25px 40px 40px;
+}
+
+.qma {
+  color: #fff;
+}
+
+
+
+.row1color {
+  color: #fff;
+  margin: auto 30%;
+  font-family: Montserrat-Bold;
+  font-size: 1.2rem;
+}
+
+.last-class {
+  color: #fff;
+  padding-bottom: 80px;
+}
+
+.Boldcontact {
+  font-family: Monsterrat-Bold;
+}
